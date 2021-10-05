@@ -3,7 +3,8 @@
 <br>
 <br>
 <pre>
-이 저장소는 <일러스트레이터 김용오> 나무위키 페이지가 '익명의 사용자'의 지속된 요청으로 삭제되어 만들어졌습니다. 
+이 저장소는 [일러스트레이터 김용오] 나무위키 페이지가 '익명의 사용자'의 지속된 요청으로 삭제되어 만들어졌습니다. 
+This repository was created by avoiding the deletion of 'illustrator [Yongohkim]'s Namu Wiki'.
 </pre>
 <br>
 
@@ -11,22 +12,26 @@
 <br>
 <br>
 
-## 논란의 시작
+## 논란의 시작 start of Issue
 
 - **2016년 10월**<br>
-  [트위터 해쉬태그](https://twitter.com/hashtag/%EC%98%88%EC%88%A0%EA%B3%84_%EB%82%B4_%EC%84%B1%ED%8F%AD%EB%A0%A5?src=hashtag_click) 등을 통해 [문화/예술계 내부의 성희롱/성폭력](https://namu.wiki/w/2016%EB%85%84%20%EB%AC%B8%ED%99%94%EA%B3%84%20%EC%84%B1%EC%B6%94%EB%AC%B8%20%ED%8F%AD%EB%A1%9C%20%EC%82%AC%EA%B1%B4)에 대한 폭로가 이어졌다.
+  [트위터 해쉬태그](https://twitter.com/hashtag/%EC%98%88%EC%88%A0%EA%B3%84_%EB%82%B4_%EC%84%B1%ED%8F%AD%EB%A0%A5?src=hashtag_click) 등을 통해 [문화/예술계 내부의 성희롱/성폭력](https://namu.wiki/w/2016%EB%85%84%20%EB%AC%B8%ED%99%94%EA%B3%84%20%EC%84%B1%EC%B6%94%EB%AC%B8%20%ED%8F%AD%EB%A1%9C%20%EC%82%AC%EA%B1%B4)에 대한 폭로가 이어졌다.<br>
+  Through Twitter hashtags, the exposure of sexual violence in the Korean art world continued.
 - **2016년 11월**<br>
-  `사진작가S`가 `일러스트레이터 김용오`에게 성폭행을 당했다는 고발글을 올렸다.
+  `사진작가S`가 `일러스트레이터 김용오`에게 성폭행을 당했다는 고발글을 올렸다.<br>
+  Photographer 'S' posted an accusation that he was raped by 'Illustrator Yongoh Kim'.
 
   ![사진작가S가 올린 고발글](img/yongoh-kim_metoo01.jpg)
 
 - **2016년 11월**<br>
-  `일러스트레이터 김용오`가 `사진작가S`를 허위사실로 검찰에 고발했음을 밝혔다.
+  `일러스트레이터 김용오`가 `사진작가S`를 허위사실로 검찰에 고발했음을 밝혔다.<br>
+  'Illustrator Yongoh Kim' accuses 'S' for false information.
 
   ![김용오 작가가 올린 고소글](img/yongoh-kim_metoo02.jpeg)
 
 - **2016년 11월**<br>
   여러 언론 매체에 관련 [기사](https://www.seoul.co.kr/news/newsView.php?id=20161124500105)가 노출되기 시작했다.<br>
+  The newspaper published an article about it.
 
   ![서울신문에 보도된 해당 사건](img/yongoh-kim_news01.png)
 
@@ -36,10 +41,10 @@
 
 <br>
 
-## 논란 이후
+## 논란 이후 after the Issue
 
 - **2017년 5월**<br>
-  `사진작가S`가 16년 11월에 `일러스트레이터 김용오`에게 사실명예훼손과 모욕으로 고발당했음을 밝혀 고발이 사실임이 알려졌다.
+  `사진작가S`가 16년 11월에 `일러스트레이터 김용오`에게 사실명예훼손과 모욕으로 고발당했음을 밝혀 고발이 사실임이 알려졌다.In November 2016, Photographer 'S' revealed that 'Illustrator Yongoh Kim' had been accused of defamation and insults.
 
   ![사진작가S가 본인 SNS에 올린 글](img/yongoh-kim_metoo03.png)
 
@@ -51,7 +56,8 @@
   ![뉴스브리핑에 인용된 글의 전문](img/yongoh-kim_news02.png)
 
 - **2018년 2월**<br>
-  [성폭력 피해자 집담회](https://www.khan.co.kr/national/national-general/article/201802101523011)에 참여한 `사진작가S`가 '성폭력 고발 후, `일러스트레이터 김용오` 작가가 개인적으로 사과를 하고는 명예훼손과 모욕죄로 고소했다'는 사실을 밝혔다.<br>
+  [성폭력 피해자 집담회](https://www.khan.co.kr/national/national-general/article/201802101523011)에 참여한 `사진작가S`가 '성폭력 폭로 후, `일러스트레이터 김용오` 작가가 개인적으로 사과를 하고는 명예훼손과 모욕죄로 고소했다'는 사실을 밝혔다.<br>
+  'Illustrator Yongoh Kim' secretly apologized to 'S'. and sued for defamation and insult
 
   ![성폭력 피해자 집담회 기사](img/yongoh-kim_news03.png)<br>
   ![성폭력 피해자 집담회 기사](img/yongoh-kim_news04.png)
@@ -189,9 +195,10 @@ sse project 컨셉북 ‘the end of the world' 참여, 서교예술실험센터
 
 <br>
 
-## 일러스트레이터 김용오 작가의 SNS
+## 일러스트레이터 김용오 작가 연락처
 
 - 메일 : infinitykyo@naver.com<br>
 - 블로그 : https://blog.naver.com/infinitykyo<br>
 - 공식 인스타그램 : https://www.instagram.com/yongoh_kim/<br>
 - 개인 인스타그램 : https://www.instagram.com/kyokyokyo1015/<br>
+- Opensea : https://opensea.io/collection/yongohkim
