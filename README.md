@@ -7,7 +7,7 @@
 </pre>
 <br>
 
-![일러스트레이터 김용오](https://github.com/yongohkim/yongoh_kim/img/illustrator_yongoh-kim.jpg)
+![일러스트레이터 김용오](img/illustrator_yongoh-kim.jpg)
 <br>
 <br>
 
@@ -17,13 +17,18 @@
   [트위터 해쉬태그](https://twitter.com/hashtag/%EC%98%88%EC%88%A0%EA%B3%84_%EB%82%B4_%EC%84%B1%ED%8F%AD%EB%A0%A5?src=hashtag_click) 등을 통해 [문화/예술계 내부의 성희롱/성폭력](https://namu.wiki/w/2016%EB%85%84%20%EB%AC%B8%ED%99%94%EA%B3%84%20%EC%84%B1%EC%B6%94%EB%AC%B8%20%ED%8F%AD%EB%A1%9C%20%EC%82%AC%EA%B1%B4)에 대한 폭로가 이어졌다.
 - **2016년 11월**<br>
   `사진작가S`가 `일러스트레이터 김용오`에게 성폭행을 당했다는 고발글을 올렸다.
-  ![사진작가S가 올린 고발글](https://github.com/yongohkim/yongoh_kim/img/yongoh-kim_metoo01.jpg)
+
+  ![사진작가S가 올린 고발글](img/yongoh-kim_metoo01.jpg)
+
 - **2016년 11월**<br>
   `일러스트레이터 김용오`가 `사진작가S`를 허위사실로 검찰에 고발했음을 밝혔다.
-  ![김용오 작가가 올린 고소글](https://github.com/yongohkim/yongoh_kim/img/yongoh-kim_metoo02.jpg)
+
+  ![김용오 작가가 올린 고소글](img/yongoh-kim_metoo02.jpeg)
+
 - **2016년 11월**<br>
   여러 언론 매체에 관련 [기사](https://www.seoul.co.kr/news/newsView.php?id=20161124500105)가 노출되기 시작했다.<br>
-  ![서울신문에 보도된 해당 사건](https://github.com/yongohkim/yongoh_kim/img/yongoh-kim_news01.png)
+
+  ![서울신문에 보도된 해당 사건](img/yongoh-kim_news01.png)
 
 <br>
 
@@ -35,16 +40,21 @@
 
 - **2017년 5월**<br>
   `사진작가S`가 16년 11월에 `일러스트레이터 김용오`에게 사실명예훼손과 모욕으로 고발당했음을 밝혀 고발이 사실임이 알려졌다.
-  ![사진작가S가 본인 SNS에 올린 글](https://github.com/yongohkim/yongoh_kim/img/yongoh-kim_metoo03.png)
+
+  ![사진작가S가 본인 SNS에 올린 글](img/yongoh-kim_metoo03.png)
+
 - **2017년 10월**<br>
   2017년 10월. `김용오` 작가가 돌연 세계여행을 한다며 출국했다. 애시당초 여행을 테마로 일러스트를 많이 그리는 작가라 도피 여부는 불분명하다.
 - **2018년 2월**<br>
   `사진작가S`가 당시 뉴스브리핑 진행자 손석희에게 보낸 글이 인용되어 뉴스에서 언급되었다.<br>
-  ![뉴스브리핑에 인용된 글의 전문](https://github.com/yongohkim/yongoh_kim/img/yongoh-kim_news02.png)
+
+  ![뉴스브리핑에 인용된 글의 전문](img/yongoh-kim_news02.png)
+
 - **2018년 2월**<br>
   [성폭력 피해자 집담회](https://www.khan.co.kr/national/national-general/article/201802101523011)에 참여한 `사진작가S`가 '성폭력 고발 후, `일러스트레이터 김용오` 작가가 개인적으로 사과를 하고는 명예훼손과 모욕죄로 고소했다'는 사실을 밝혔다.<br>
-  ![성폭력 피해자 집담회 기사](https://github.com/yongohkim/yongoh_kim/img/yongoh-kim_news03.png)<br>
-  ![성폭력 피해자 집담회 기사](https://github.com/yongohkim/yongoh_kim/img/yongoh-kim_news04.png)
+
+  ![성폭력 피해자 집담회 기사](img/yongoh-kim_news03.png)<br>
+  ![성폭력 피해자 집담회 기사](img/yongoh-kim_news04.png)
   <br>
 
 ---
@@ -66,12 +76,14 @@
 
 - **ROTTA 작가와의 친분**<br>
   여성 모델을 추행한 혐의로 실형을 받은 [로타](https://namu.wiki/w/ROTTA)작가와 친분이 있음이 여러 정황으로 드러났다. 사석에서 자주 어울렸으며 [콜라보 전시](https://www.facebook.com/1984culture/photos/a.512381545444217/886082041407497/?type=3)를 하기도 했다. 불법촬영물 제작 및 유포 사건으로 실형을 받은 연예인 집단이 연상되는 부분이다.<br>
-  ![김용오 작가와 로타 작가](https://github.com/yongohkim/yongoh_kim/img/rotta-yongohkim02.png)<br>
-  ![김용오 작가가 그린 로타 작가](https://github.com/yongohkim/yongoh_kim/img/rotta-yongohkim01.jpeg)
+
+  ![김용오 작가와 로타 작가](img/rotta-yongohkim02.png)<br>
+  ![김용오 작가가 그린 로타 작가](img/rotta-yongohkim01.jpeg)
 
 - **BTS 제이홉 앨범 커버 표절 시비**<br>
   2018년 3월 발매된 BTS 제이홉의 첫 번째 믹스테입 Hope World의 앨범 커버 일러스트가 자신의 일러스트를 표절했다면 의혹을 제기했다. `김용오` 작가는 자신의 [인스타그램](https://www.instagram.com/yongoh_kim/)에 "제이홉 일러스트는 제가 작업한것이 아님을 밝힙니다. 이젠 이러한 이슈에는 현자가 되어갑니다.."라는 글을 올리고 댓글로 "깎아내리려고 한것 맞습니다 카피를 당했으니깐요."와 같은 말을 하며 BTS 팬들을 자극했다. 결국 팬들의 거센 항의에 인스타그램을 비공개로 전환한 뒤 아무런 입장 표명을 하지 않았다.<br>
-  ![김용오 작가의 인스타그램](https://github.com/yongohkim/yongoh_kim/img/yongoh-kim_j-hope.jpeg)
+
+  ![김용오 작가의 인스타그램](img/yongoh-kim_j-hope.jpeg)
   <br>
   <br>
 
@@ -100,7 +112,7 @@ Hazzys 17fw 패션필름 연출,제작 /
 Blacknife 푸드트럭 아트워크 /
 Taste makers(dunhill) 아트 콜라보레이션 /
 Yummy mart(Japan) Fashion film연출 /
-KBL allstar busan poster&goods artwork /
+KBL allstar busan poster&goods artwork
 <br>2016<br>
 E-naive Goods 출시 /
 서울시 선유도 거리마켓 아트워크 /
@@ -122,7 +134,7 @@ Musinsa + Yongohkim Case collaboration /
 <br>2014<br>
 Rareraw furniture collaboration ,concept room /
 paperpack 노트 출시 /
-VIAMONOH 콜라보레이션 아트백 출시 /
+VIAMONOH 콜라보레이션 아트백 출시
 <br>2013<br>
 You Great(YGxGentle Monster)아트워크 릴레이 competition 수상 /
 플레이몬스터 콜라보레이션(2013 S/F) /
